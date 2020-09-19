@@ -1,0 +1,71 @@
+,docid,isValid,passage,passageid
+0,HPRD50.d6,False,"Regulation of neutrophil adhesion by pituitary growth hormone accompanies tyrosine phosphorylation of PROTEIN1 p125FAK, and PROTEIN2 ",HPRD50.d6.s0
+1,HPRD50.d6,False,"These results suggest that pituitary GH modulates neutrophil adhesion through tyrosine phosphorylation of PROTEIN1 p125FAK, and PROTEIN2 and actin polymerization",HPRD50.d6.s1
+2,HPRD50.d6,False,Pituitary GH triggered the tyrosine phosphorylation of PROTEIN1 ( PROTEIN2 and PROTEIN in neutrophils,HPRD50.d6.s2
+3,HPRD50.d6,False,Pituitary GH triggered the tyrosine phosphorylation of PROTEIN1 ( PROTEIN and PROTEIN2 in neutrophils,HPRD50.d6.s2
+4,HPRD50.d6,False,Pituitary GH triggered the tyrosine phosphorylation of PROTEIN ( PROTEIN1 and PROTEIN2 in neutrophils,HPRD50.d6.s2
+5,HPRD50.d6,False,"Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROTEIN1 PROTEIN p125FAK, and PROTEIN2 phosphorylation",HPRD50.d6.s3
+6,HPRD50.d6,False,"Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROTEIN1 PROTEIN2 p125FAK, and PROTEIN phosphorylation",HPRD50.d6.s3
+7,HPRD50.d6,False,"Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROTEIN PROTEIN1 p125FAK, and PROTEIN2 phosphorylation",HPRD50.d6.s3
+8,HPRD50.d6,True,Immunoprecipitation experiments revealed a physical association of PROTEIN1 with p125FAK via PROTEIN2 in vivo,HPRD50.d6.s4
+9,HPRD50.d10,True,Cutting edge: PROTEIN1 functions as a T cell counterreceptor for the macrophage adhesion receptor PROTEIN2 ( PROTEIN ,HPRD50.d10.s0
+10,HPRD50.d10,False,Cutting edge: PROTEIN functions as a T cell counterreceptor for the macrophage adhesion receptor PROTEIN1 ( PROTEIN2 ,HPRD50.d10.s0
+11,HPRD50.d10,True,Cutting edge: PROTEIN1 functions as a T cell counterreceptor for the macrophage adhesion receptor PROTEIN ( PROTEIN2 ,HPRD50.d10.s0
+12,HPRD50.d10,False,"The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins PROTEIN1 and PROTEIN ( PROTEIN2 , respectively",HPRD50.d10.s1
+13,HPRD50.d10,False,"The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins PROTEIN1 and PROTEIN2 ( PROTEIN , respectively",HPRD50.d10.s1
+14,HPRD50.d10,False,"The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins PROTEIN and PROTEIN1 ( PROTEIN2 , respectively",HPRD50.d10.s1
+15,HPRD50.d10,True, PROTEIN1 expressed in COS cells supported increased binding to immobilized PROTEIN2 ,HPRD50.d10.s2
+16,HPRD50.d10,True,"Finally, PROTEIN1 bound different glycoforms of PROTEIN2 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on PROTEIN in resting and activated T cells, respectively",HPRD50.d10.s3
+17,HPRD50.d10,False,"Finally, PROTEIN bound different glycoforms of PROTEIN1 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on PROTEIN2 in resting and activated T cells, respectively",HPRD50.d10.s3
+18,HPRD50.d10,False,"Finally, PROTEIN1 bound different glycoforms of PROTEIN expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on PROTEIN2 in resting and activated T cells, respectively",HPRD50.d10.s3
+19,HPRD50.d10,False,These results identify PROTEIN as a T cell counterreceptor for PROTEIN1 and suggest that in addition to its anti-adhesive role PROTEIN2 may promote cell-cell interactions,HPRD50.d10.s4
+20,HPRD50.d10,False,These results identify PROTEIN1 as a T cell counterreceptor for PROTEIN and suggest that in addition to its anti-adhesive role PROTEIN2 may promote cell-cell interactions,HPRD50.d10.s4
+21,HPRD50.d10,True,These results identify PROTEIN1 as a T cell counterreceptor for PROTEIN2 and suggest that in addition to its anti-adhesive role PROTEIN may promote cell-cell interactions,HPRD50.d10.s4
+22,HPRD50.d15,True,Physical association of PROTEIN1 with PROTEIN2 a novel glycosylphosphatidylinositol-anchored protein with potential for regulating adhesion and migration,HPRD50.d15.s0
+23,HPRD50.d15,True,"To clarify the mechanisms by which PROTEIN1 functions on leukocytes, we explored the possibility of its physical association with PROTEIN2 which is important for leukocyte adherence, locomotion, and extravasation",HPRD50.d15.s1
+24,HPRD50.d15,True," PROTEIN1 detected by anti-CD18 mAb, was coprecipitated with PROTEIN2 from human neutrophil lysates by a mAb to PROTEIN ",HPRD50.d15.s2
+25,HPRD50.d15,False," PROTEIN1 detected by anti-CD18 mAb, was coprecipitated with PROTEIN from human neutrophil lysates by a mAb to PROTEIN2 ",HPRD50.d15.s2
+26,HPRD50.d15,False," PROTEIN detected by anti-CD18 mAb, was coprecipitated with PROTEIN1 from human neutrophil lysates by a mAb to PROTEIN2 ",HPRD50.d15.s2
+27,HPRD50.d15,True,"In addition, PROTEIN1 was immunoprecipitated from human neutrophil lysates by anti-human PROTEIN2 mAb",HPRD50.d15.s3
+28,HPRD50.d15,True,These results clearly show that PROTEIN1 is physically associated with PROTEIN2 in human neutrophils,HPRD50.d15.s4
+29,HPRD50.d17,False, PROTEIN1 (type II isozyme) contains a PROTEIN2 homology domain at the N terminus and a sterile alpha motif domain at the C terminus,HPRD50.d17.s0
+30,HPRD50.d28,True,We report that PROTEIN1 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROTEIN2 and PROTEIN (structure maintenance of chromosome 1),HPRD50.d28.s0
+31,HPRD50.d28,True,We report that PROTEIN1 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROTEIN and PROTEIN2 (structure maintenance of chromosome 1),HPRD50.d28.s0
+32,HPRD50.d28,False,We report that PROTEIN (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROTEIN1 and PROTEIN2 (structure maintenance of chromosome 1),HPRD50.d28.s0
+33,HPRD50.d28,True,We found that phosphorylation of PROTEIN1 by ATR also requires checkpoint proteins PROTEIN2 and replication protein A,HPRD50.d28.s1
+34,HPRD50.d28,False,"In contrast, phosphorylation of PROTEIN by ATR is independent of PROTEIN1 and replication protein A, suggesting that the signaling pathway leading to PROTEIN2 phosphorylation is distinct from that mediated by the checkpoint proteins",HPRD50.d28.s2
+35,HPRD50.d28,False,"In contrast, phosphorylation of PROTEIN1 by ATR is independent of PROTEIN and replication protein A, suggesting that the signaling pathway leading to PROTEIN2 phosphorylation is distinct from that mediated by the checkpoint proteins",HPRD50.d28.s2
+36,HPRD50.d28,False,"In contrast, phosphorylation of PROTEIN1 by ATR is independent of PROTEIN2 and replication protein A, suggesting that the signaling pathway leading to PROTEIN phosphorylation is distinct from that mediated by the checkpoint proteins",HPRD50.d28.s2
+37,HPRD50.d28,False,"In addition, both PROTEIN and PROTEIN1 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of PROTEIN2 is required for cellular survival",HPRD50.d28.s3
+38,HPRD50.d28,False,"In addition, both PROTEIN1 and PROTEIN2 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of PROTEIN is required for cellular survival",HPRD50.d28.s3
+39,HPRD50.d28,False,"In addition, both PROTEIN1 and PROTEIN are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of PROTEIN2 is required for cellular survival",HPRD50.d28.s3
+40,HPRD50.d36,True," PROTEIN1 associates with PROTEIN2 Syk, and phospholipase C-gamma(1) upon B cell activation",HPRD50.d36.s0
+41,HPRD50.d36,True,These results suggest that tyrosyl-phosphorylated PROTEIN may be a substrate for PROTEIN1 regulates tyrosyl phosphorylation of PROTEIN2 ,HPRD50.d36.s1
+42,HPRD50.d36,False,These results suggest that tyrosyl-phosphorylated PROTEIN1 may be a substrate for PROTEIN regulates tyrosyl phosphorylation of PROTEIN2 ,HPRD50.d36.s1
+43,HPRD50.d36,True,These results suggest that tyrosyl-phosphorylated PROTEIN1 may be a substrate for PROTEIN2 regulates tyrosyl phosphorylation of PROTEIN ,HPRD50.d36.s1
+44,HPRD50.d36,False,The association of PROTEIN1 with PROTEIN was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROTEIN2 ,HPRD50.d36.s2
+45,HPRD50.d36,True,The association of PROTEIN1 with PROTEIN2 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROTEIN ,HPRD50.d36.s2
+46,HPRD50.d36,True,The association of PROTEIN with PROTEIN1 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROTEIN2 ,HPRD50.d36.s2
+47,HPRD50.d36,True,"Complexes of either PROTEIN1 PROTEIN2 Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively",HPRD50.d36.s3
+48,HPRD50.d36,False,Transient expression of PROTEIN1 and a null mutant of PROTEIN (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of PROTEIN2 and its interaction with PTP-1CM,HPRD50.d36.s4
+49,HPRD50.d36,True,Transient expression of PROTEIN and a null mutant of PROTEIN1 (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of PROTEIN2 and its interaction with PTP-1CM,HPRD50.d36.s4
+50,HPRD50.d36,False,Transient expression of PROTEIN1 and a null mutant of PROTEIN2 (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of PROTEIN and its interaction with PTP-1CM,HPRD50.d36.s4
+51,HPRD50.d36,False,"By contrast, PROTEIN1 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PROTEIN2 ",HPRD50.d36.s5
+52,HPRD50.d37,True, PROTEIN1 dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN subunit and could be immunoprecipitated with antibodies to PROTEIN2 the core subunit of PROTEIN ,HPRD50.d37.s0
+53,HPRD50.d37,False, PROTEIN1 dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN2 subunit and could be immunoprecipitated with antibodies to PROTEIN the core subunit of PROTEIN ,HPRD50.d37.s0
+54,HPRD50.d37,False, PROTEIN1 dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN subunit and could be immunoprecipitated with antibodies to PROTEIN the core subunit of PROTEIN2 ,HPRD50.d37.s0
+55,HPRD50.d37,False, PROTEIN dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN1 subunit and could be immunoprecipitated with antibodies to PROTEIN2 the core subunit of PROTEIN ,HPRD50.d37.s0
+56,HPRD50.d37,True, PROTEIN dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN subunit and could be immunoprecipitated with antibodies to PROTEIN1 the core subunit of PROTEIN2 ,HPRD50.d37.s0
+57,HPRD50.d37,False, PROTEIN dimers formed through self-association of the TATA-binding polypeptide ( PROTEIN1 subunit and could be immunoprecipitated with antibodies to PROTEIN the core subunit of PROTEIN2 ,HPRD50.d37.s0
+58,HPRD50.d41,True,"We report here that PLZF, and a structurally similar transcriptional repressor, PROTEIN1 can interact with a variety of corepressor proteins in addition to SMRT, including the mSin3A protein and (for PLZF) PROTEIN2 ",HPRD50.d41.s0
+59,HPRD50.d42,False,"Herein, we show that a distinct IkappaB protein PROTEIN1 also interacts with RXR, as shown in the yeast two-hybrid tests and PROTEIN2 pull-down assays",HPRD50.d42.s0
+60,HPRD50.d42,False,In contrast to PROTEIN1 PROTEIN2 did not interact with the AF2 domain of RXR,HPRD50.d42.s1
+61,HPRD50.d42,True," PROTEIN1 specifically interacted with the general transcription factors PROTEIN2 TBP, and PROTEIN but not with TFIIEalpha in the PROTEIN pull-down assays",HPRD50.d42.s2
+62,HPRD50.d42,True," PROTEIN1 specifically interacted with the general transcription factors PROTEIN TBP, and PROTEIN2 but not with TFIIEalpha in the PROTEIN pull-down assays",HPRD50.d42.s2
+63,HPRD50.d42,False," PROTEIN1 specifically interacted with the general transcription factors PROTEIN TBP, and PROTEIN but not with TFIIEalpha in the PROTEIN2 pull-down assays",HPRD50.d42.s2
+64,HPRD50.d42,False," PROTEIN specifically interacted with the general transcription factors PROTEIN1 TBP, and PROTEIN2 but not with TFIIEalpha in the PROTEIN pull-down assays",HPRD50.d42.s2
+65,HPRD50.d42,False," PROTEIN specifically interacted with the general transcription factors PROTEIN1 TBP, and PROTEIN but not with TFIIEalpha in the PROTEIN2 pull-down assays",HPRD50.d42.s2
+66,HPRD50.d42,False," PROTEIN specifically interacted with the general transcription factors PROTEIN TBP, and PROTEIN1 but not with TFIIEalpha in the PROTEIN2 pull-down assays",HPRD50.d42.s2
+67,HPRD50.d42,False,"TBP and PROTEIN1 however, were not able to interact with PROTEIN2 ",HPRD50.d42.s3
+68,HPRD50.d42,False,"Accordingly, PROTEIN1 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of PROTEIN2 ",HPRD50.d42.s4
+69,HPRD50.d42,False,"In addition, coexpression of PROTEIN1 but not PROTEIN2 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR",HPRD50.d42.s5
