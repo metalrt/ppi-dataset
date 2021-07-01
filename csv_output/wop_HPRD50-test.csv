@@ -1,0 +1,71 @@
+,docid,isValid,passage,passageid
+0,HPRD50.d6,False,"Regulation of neutrophil adhesion by pituitary growth hormone accompanies tyrosine phosphorylation of Jak2, p125FAK, and paxillin",HPRD50.d6.s0
+1,HPRD50.d6,False,"These results suggest that pituitary GH modulates neutrophil adhesion through tyrosine phosphorylation of Jak2, p125FAK, and paxillin and actin polymerization",HPRD50.d6.s1
+2,HPRD50.d6,False,Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 (Jak2) and STAT3 in neutrophils,HPRD50.d6.s2
+3,HPRD50.d6,False,Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 (Jak2) and STAT3 in neutrophils,HPRD50.d6.s2
+4,HPRD50.d6,False,Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 (Jak2) and STAT3 in neutrophils,HPRD50.d6.s2
+5,HPRD50.d6,False,"Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and Jak2, STAT3, p125FAK, and paxillin phosphorylation",HPRD50.d6.s3
+6,HPRD50.d6,False,"Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and Jak2, STAT3, p125FAK, and paxillin phosphorylation",HPRD50.d6.s3
+7,HPRD50.d6,False,"Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and Jak2, STAT3, p125FAK, and paxillin phosphorylation",HPRD50.d6.s3
+8,HPRD50.d6,True,Immunoprecipitation experiments revealed a physical association of Jak2 with p125FAK via STAT3 in vivo,HPRD50.d6.s4
+9,HPRD50.d10,True,Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1),HPRD50.d10.s0
+10,HPRD50.d10,False,Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1),HPRD50.d10.s0
+11,HPRD50.d10,True,Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1),HPRD50.d10.s0
+12,HPRD50.d10,False,"The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 (CD162), respectively",HPRD50.d10.s1
+13,HPRD50.d10,False,"The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 (CD162), respectively",HPRD50.d10.s1
+14,HPRD50.d10,False,"The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 (CD162), respectively",HPRD50.d10.s1
+15,HPRD50.d10,True,CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin,HPRD50.d10.s2
+16,HPRD50.d10,True,"Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively",HPRD50.d10.s3
+17,HPRD50.d10,False,"Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively",HPRD50.d10.s3
+18,HPRD50.d10,False,"Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively",HPRD50.d10.s3
+19,HPRD50.d10,False,These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions,HPRD50.d10.s4
+20,HPRD50.d10,False,These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions,HPRD50.d10.s4
+21,HPRD50.d10,True,These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions,HPRD50.d10.s4
+22,HPRD50.d15,True,"Physical association of beta 2 integrin with GPI-80, a novel glycosylphosphatidylinositol-anchored protein with potential for regulating adhesion and migration",HPRD50.d15.s0
+23,HPRD50.d15,True,"To clarify the mechanisms by which GPI-80 functions on leukocytes, we explored the possibility of its physical association with beta 2 integrin which is important for leukocyte adherence, locomotion, and extravasation",HPRD50.d15.s1
+24,HPRD50.d15,True,"beta 2 integrin, detected by anti-CD18 mAb, was coprecipitated with GPI-80 from human neutrophil lysates by a mAb to GPI-80",HPRD50.d15.s2
+25,HPRD50.d15,False,"beta 2 integrin, detected by anti-CD18 mAb, was coprecipitated with GPI-80 from human neutrophil lysates by a mAb to GPI-80",HPRD50.d15.s2
+26,HPRD50.d15,False,"beta 2 integrin, detected by anti-CD18 mAb, was coprecipitated with GPI-80 from human neutrophil lysates by a mAb to GPI-80",HPRD50.d15.s2
+27,HPRD50.d15,True,"In addition, GPI-80 was immunoprecipitated from human neutrophil lysates by anti-human CD18 mAb",HPRD50.d15.s3
+28,HPRD50.d15,True,These results clearly show that GPI-80 is physically associated with beta 2 integrin in human neutrophils,HPRD50.d15.s4
+29,HPRD50.d17,False,DGKdelta (type II isozyme) contains a pleckstrin homology domain at the N terminus and a sterile alpha motif domain at the C terminus,HPRD50.d17.s0
+30,HPRD50.d28,True,We report that MSH2 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 (structure maintenance of chromosome 1),HPRD50.d28.s0
+31,HPRD50.d28,True,We report that MSH2 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 (structure maintenance of chromosome 1),HPRD50.d28.s0
+32,HPRD50.d28,False,We report that MSH2 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 (structure maintenance of chromosome 1),HPRD50.d28.s0
+33,HPRD50.d28,True,We found that phosphorylation of Chk1 by ATR also requires checkpoint proteins Rad17 and replication protein A,HPRD50.d28.s1
+34,HPRD50.d28,False,"In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins",HPRD50.d28.s2
+35,HPRD50.d28,False,"In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins",HPRD50.d28.s2
+36,HPRD50.d28,False,"In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins",HPRD50.d28.s2
+37,HPRD50.d28,False,"In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival",HPRD50.d28.s3
+38,HPRD50.d28,False,"In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival",HPRD50.d28.s3
+39,HPRD50.d28,False,"In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival",HPRD50.d28.s3
+40,HPRD50.d36,True,"CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation",HPRD50.d36.s0
+41,HPRD50.d36,True,These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22,HPRD50.d36.s1
+42,HPRD50.d36,False,These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22,HPRD50.d36.s1
+43,HPRD50.d36,True,These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22,HPRD50.d36.s1
+44,HPRD50.d36,False,The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C,HPRD50.d36.s2
+45,HPRD50.d36,True,The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C,HPRD50.d36.s2
+46,HPRD50.d36,True,The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C,HPRD50.d36.s2
+47,HPRD50.d36,True,"Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively",HPRD50.d36.s3
+48,HPRD50.d36,False,Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM,HPRD50.d36.s4
+49,HPRD50.d36,True,Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM,HPRD50.d36.s4
+50,HPRD50.d36,False,Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM,HPRD50.d36.s4
+51,HPRD50.d36,False,"By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C",HPRD50.d36.s5
+52,HPRD50.d37,True,"TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID",HPRD50.d37.s0
+53,HPRD50.d37,False,"TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID",HPRD50.d37.s0
+54,HPRD50.d37,False,"TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID",HPRD50.d37.s0
+55,HPRD50.d37,False,"TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID",HPRD50.d37.s0
+56,HPRD50.d37,True,"TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID",HPRD50.d37.s0
+57,HPRD50.d37,False,"TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID",HPRD50.d37.s0
+58,HPRD50.d41,True,"We report here that PLZF, and a structurally similar transcriptional repressor, BCL-6, can interact with a variety of corepressor proteins in addition to SMRT, including the mSin3A protein and (for PLZF) histone deacetylase-1",HPRD50.d41.s0
+59,HPRD50.d42,False,"Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays",HPRD50.d42.s0
+60,HPRD50.d42,False,"In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR",HPRD50.d42.s1
+61,HPRD50.d42,True,"Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays",HPRD50.d42.s2
+62,HPRD50.d42,True,"Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays",HPRD50.d42.s2
+63,HPRD50.d42,False,"Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays",HPRD50.d42.s2
+64,HPRD50.d42,False,"Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays",HPRD50.d42.s2
+65,HPRD50.d42,False,"Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays",HPRD50.d42.s2
+66,HPRD50.d42,False,"Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays",HPRD50.d42.s2
+67,HPRD50.d42,False,"TBP and TFIIA, however, were not able to interact with IkappaBbeta",HPRD50.d42.s3
+68,HPRD50.d42,False,"Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta",HPRD50.d42.s4
+69,HPRD50.d42,False,"In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR",HPRD50.d42.s5
